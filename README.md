@@ -52,14 +52,22 @@ flutter test
 ## Ui of the app
 
 ### Get Started Page:
+
 <img src="Screenshot_2025-01-19-17-39-03-49_c3b14969e97cb8b0f576642b249056d5.jpg" width="500">
+
 ### Questions Page:
+
 <img src="Screenshot_2025-01-19-17-39-17-98_c3b14969e97cb8b0f576642b249056d5.jpg" width="500">
 ### Right Answer pop up:
+
 <img src="Screenshot_2025-01-19-17-39-21-52_c3b14969e97cb8b0f576642b249056d5.jpg" width="500">
+
 ### Wrong Answer Pop up:
+
 <img src="Screenshot_2025-01-19-17-39-30-46_c3b14969e97cb8b0f576642b249056d5.jpg" width="500">
+
 ### Result Page:
+
 <img src="Screenshot_2025-01-19-17-39-43-04_c3b14969e97cb8b0f576642b249056d5.jpg" width="500">
 
 ## App Walkthrough and features videos:

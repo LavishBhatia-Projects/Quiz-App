@@ -1,7 +1,3 @@
-Here’s the updated README.md without the license section:
-
----
-
 # Flutter Quiz App
 
 A simple quiz app built with Flutter.

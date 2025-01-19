@@ -71,5 +71,5 @@ flutter test
 <img src="Screenshot_2025-01-19-17-39-43-04_c3b14969e97cb8b0f576642b249056d5.jpg" width="500">
 
 ## App Walkthrough and features videos:
-https://drive.google.com/drive/u/2/folders/1lXbwhNSpsPaVi_USql99mVbfhKfO-xE4?q=sharedwith:public%20parent:1lXbwhNSpsPaVi_USql99mVbfhKfO-xE4
+https://drive.google.com/drive/folders/1lXbwhNSpsPaVi_USql99mVbfhKfO-xE4?usp=sharing
 

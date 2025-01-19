@@ -52,7 +52,8 @@ flutter test
 ## Ui of the app
 
 ### Get Started Page:
-![alt text](Screenshot_2025-01-19-17-39-03-49_c3b14969e97cb8b0f576642b249056d5.jpg)
+<img src="Screenshot_2025-01-19-17-39-03-49_c3b14969e97cb8b0f576642b249056d5.jpg" width="500">
+
 
 ### Questions Page:
 ![alt text](Screenshot_2025-01-19-17-39-17-98_c3b14969e97cb8b0f576642b249056d5.jpg)
